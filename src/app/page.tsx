@@ -620,7 +620,7 @@ export default function DarkSidebarFullContent() {
                 </div>
 
                 <span className="flex ">Main </span>
-                <span className="flex ">Categories</span>
+                <span className="flex my-3">Categories</span>
 
                 {/* END Card Body */}
 
